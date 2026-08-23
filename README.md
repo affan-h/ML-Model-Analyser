@@ -14,8 +14,6 @@ Upload a CSV, pick a target column, and the app handles the rest: cleaning the d
 [https://github.com/user-attachments/assets/demo.mov](https://github.com/user-attachments/assets/79533120-e2bd-4863-a547-f9b16b3cd1ea
 )
 
-> 📹 A full walkthrough is included at [`assets/demo.mov`](assets/demo.mov), showing the app loaded with the classic Titanic dataset — from upload through to the final model ranking.
-
 ## What it does
 
 ### 1. Upload & explore
