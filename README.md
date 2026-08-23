@@ -1,3 +1,6 @@
+
+
+
 # ML Model Comparator
 
 A self-service analytics tool that lets non-technical users upload any tabular dataset and instantly get automated exploratory data analysis plus a side-by-side comparison of classification models — no code required.
@@ -8,7 +11,8 @@ Upload a CSV, pick a target column, and the app handles the rest: cleaning the d
 
 ## Demo
 
-https://github.com/user-attachments/assets/demo.mov
+[https://github.com/user-attachments/assets/demo.mov](https://github.com/user-attachments/assets/79533120-e2bd-4863-a547-f9b16b3cd1ea
+)
 
 > 📹 A full walkthrough is included at [`assets/demo.mov`](assets/demo.mov), showing the app loaded with the classic Titanic dataset — from upload through to the final model ranking.
 
@@ -99,5 +103,5 @@ Then open the local URL Streamlit prints (typically `http://localhost:8501`), up
 ├── app.py              # Streamlit application (UI, preprocessing, model training, visualization)
 ├── assets/
 │   └── demo.mov         # Screen-recorded walkthrough of the app in use
-└── README.md
+└── README.md  
 ```
