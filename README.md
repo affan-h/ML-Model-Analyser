@@ -6,12 +6,6 @@ Upload a CSV, pick a target column, and the app handles the rest: cleaning the d
 
 **🚀 Live app:** [ml-model-analyser-6hpvdxscx9wvknt768bjtk.streamlit.app](https://ml-model-analyser-6hpvdxscx9wvknt768bjtk.streamlit.app/)
 
-## Demo
-
-https://github.com/user-attachments/assets/demo.mov
-
-> 📹 A full walkthrough of an earlier version of the app, loaded with the classic Titanic dataset — from upload through to the final model ranking. Core flow is unchanged in the current version; see "What's new in v2" below for what's improved since this recording.
-
 ## What it does
 
 ### 1. Upload & preview
@@ -104,8 +98,5 @@ Then open the local URL Streamlit prints (typically `http://localhost:8501`), up
 .
 ├── app.py                    # Streamlit application (UI, preprocessing, model training, visualization)
 ├── requirements.txt          # Python dependencies
-├── CHANGES_v1_to_v2.md       # Detailed log of every fix and design decision between v1 and v2
-├── assets/
-│   └── demo.mov               # Screen-recorded walkthrough of the app in use
 └── README.md
 ```
